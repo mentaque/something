@@ -144,7 +144,7 @@ EMAIL_USE_TLS = False
 EMAIL_PORT = 465
 EMAIL_USE_SSL = True
 EMAIL_HOST_USER = 'mentaque322@gmail.com'
-EMAIL_HOST_PASSWORD = 'jkebyxrfcijigtit'
+EMAIL_HOST_PASSWORD = 'host-pass-for-gmail'
 
 LOGGING = {
     'version': 1,
