@@ -1,2 +1,13 @@
-# Pet-project market with auth
-Pet-project - shoes market with auth sending message on email for authentication, using postgreSQL, celery, redis and wrapped everything in docker containers. In this project I wanted to focus on auth and query optimization. Was used celery for sending message to user's email. There's documentation with drf-yasg.
+# Pet-project shoe shop(DRF)
+Small pet-project using DRF. This project was made for code practice. The main purposes were to **implement authentication(with email)** and **optimize sql queries**.
+## Technologies
+- Django
+- DRF
+- PostgreSQL
+- Celery
+- Docker
+## Features
+- Email authorization and authentication using a code that is sent to email
+- Endpoints for registration, login and logout
+- Endpoint for CRUD operation with shoes
+- Endpoint for user's cart
